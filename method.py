@@ -26,4 +26,7 @@ age {4+4}
 print(email)   
 
 name = "maria"
-surname = "Jamila"     
+surname = "Jamila"
+a=[12,3,4,5]    
+a.remove(12),a.remove(3)
+print(a)
